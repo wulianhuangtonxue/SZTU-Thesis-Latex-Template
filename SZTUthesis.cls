@@ -95,8 +95,6 @@ Just choose `xelatex', no `pdflatex' or `latex' and so on.}
 \RequirePackage{chngcntr}
 % 字符串处理
 \RequirePackage{xstring}
-% 添加浮动环境
-\RequirePackage{float}
 
 
 % 参考文献格式 GBT7714-2005
